@@ -35,7 +35,7 @@ Button detail;
                 HomePage.this.startActivity(update1);
             }
         });
-//jvaas
+//jvaasffgv
         delete=(Button)findViewById(R.id.button6);
 
         delete.setOnClickListener(new View.OnClickListener() {
